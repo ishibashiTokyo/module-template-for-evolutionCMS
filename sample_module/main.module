@@ -1,0 +1,1 @@
+include_once(MODX_BASE_PATH.'assets/modules/SAMPLE/SAMPLE.main.php');

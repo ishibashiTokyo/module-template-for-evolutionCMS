@@ -1,2 +1,2 @@
-# evolutionCMS-module-template
-evolutionCMS用のテンプレート
+# evolutionCMS用のテンプレート
+
